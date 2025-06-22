@@ -15,7 +15,8 @@ This responsive, pastel-themed website was built to showcase Roze's services, al
 
 ## 📸 Preview
 
-![image](https://github.com/user-attachments/assets/fe875366-fde2-48e3-859e-2481e3fc46e7)
+![ChatGPT Image Jun 21, 2025, 11_20_54 PM](https://github.com/user-attachments/assets/6dd9e75c-67cc-49fb-a2f0-1138efbef153)
+
 
 
 ---
