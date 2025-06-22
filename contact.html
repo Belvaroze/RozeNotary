@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8" />
+    <title>Contact | Roze's Mobile Notary Services</title>
+    <link rel="stylesheet" href="style.css" />
+</head>
+
+<body>
+    <header>
+        <div class="logo">
+            <img src="images/roze-notary-logo.png" alt="Roze's Logo" />
+        </div>
+        <nav>
+            <ul>
+                <li><a href="index.html">Home</a></li>
+                <li><a href="services.html">Services</a></li>
+                <li><a href="about.html">About Me</a></li>
+                <li><a href="#" class="active">Contact</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <main class="contact-page">
+        <div class="contact-info">
+            <h1>Contact Me</h1>
+            <p>Email: <a href="mailto:rnbullard@rozenotary.com">rnbullard@ymail.com</a></p>
+            <p>Phone: <a href="tel:7736794023">773-679-4023</a></p>
+            <div class="social-icons">
+                <a href="#"><i class="fa-brands fa-facebook-f"></i></a>
+                <a href="#"><i class="fa-brands fa-linkedin-in"></i></a>
+            </div>
+            <p>You can also send a message using this form:</p>
+        </div>
+
+        <form action="https://formspree.io/f/mnnvbkdb" method="POST">
+    <div class="form-row">
+        <input type="text" name="firstName" placeholder="First Name *" required>
+        <input type="text" name="lastName" placeholder="Last Name *" required>
+    </div>
+    <div class="form-row">
+        <input type="email" name="email" placeholder="Email *" required>
+        <input type="tel" name="phone" placeholder="Phone *" required>
+    </div>
+    <div class="form-row">
+        <input type="text" name="address" placeholder="Address *" required>
+        <select name="preferredContact" required>
+            <option disabled selected>Preferred Contact Method *</option>
+            <option>Call</option>
+            <option>Text Message</option>
+            <option>Email</option>
+        </select>
+    </div>
+    <textarea id="message" name="message" rows="6" cols="40" required></textarea>
+    <input type="hidden" name="_redirect" value="thank-you.html">
+    <input type="hidden" name="_subject" value="New Notary Request!">
+    
+    <button type="submit">Send Message</button>
+</form>
+
+    </main>
+    <footer class="site-footer">
+  <p>&copy; <span class="current-year"></span> Roze’s Mobile Notary Services</p>
+</footer>
+    <script src="script.js"></script>
+</body>
+
+</html>
