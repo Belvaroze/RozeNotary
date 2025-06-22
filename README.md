@@ -4,19 +4,19 @@ Welcome to the official site of **Roze's Mobile Notary Services**, your reliable
 
 This responsive, pastel-themed website was built to showcase Roze's services, allow clients to contact her directly, and provide helpful information about mobile notary work in a clean, modern layout.
 
+
 ---
 
 ## 🌐 Live Site
 
-➡️ **[Visit Roze's Notary Website](https://your-github-username.github.io/roze-notary/)**
-
-> *(Replace the link above with your actual GitHub Pages link once deployed.)*
+➡️ **[Visit Roze's Notary Website](https://belvaroze.github.io/RozeNotary/)**
 
 ---
 
 ## 📸 Preview
 
-![Roze's Notary Site Screenshot](preview.png)
+![image](https://github.com/user-attachments/assets/fe875366-fde2-48e3-859e-2481e3fc46e7)
+
 
 ---
 
@@ -32,21 +32,16 @@ This responsive, pastel-themed website was built to showcase Roze's services, al
 ---
 
 ## 🔧 Tech Stack
+![HTML](https://img.shields.io/badge/HTML-5-orange)
+![CSS](https://img.shields.io/badge/CSS-3-blue)
+![JavaScript](https://img.shields.io/badge/JavaScript-ES6-yellow)
+![Status](https://img.shields.io/badge/status-live-brightgreen)
 
 - **HTML5**  
 - **CSS3**  
 - **JavaScript** (for interactivity)  
 - **Formspree** (for contact form submission)  
 - **Git & GitHub** (version control and hosting)
-
----
-
-## 🏷️ Badges
-
-![HTML](https://img.shields.io/badge/HTML-5-orange)
-![CSS](https://img.shields.io/badge/CSS-3-blue)
-![JavaScript](https://img.shields.io/badge/JavaScript-ES6-yellow)
-![Status](https://img.shields.io/badge/status-live-brightgreen)
 
 ---
 
